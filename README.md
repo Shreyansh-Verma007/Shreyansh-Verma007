@@ -1,23 +1,24 @@
-# Hi there, I'm Shreyansh Verma 👋
+Hi 👋, I'm Shreyansh Verma
 
-I am a B.Tech student at **IIT Tirupati**, passionate about low-level systems programming, computer architecture, and theoretical computer science. 
+🔭 I'm interested in low-level systems programming, computer architecture, theoretical computer science (like automata theory and discrete mathematics), and competitive programming.
 
-### 👨‍💻 About Me
-* 🎓 Currently studying B.Tech at IIT Tirupati, maintaining a strong academic record.
-* 💻 I enjoy diving deep into CPU component design, discrete mathematics, and competitive programming.
-* ⚙️ **Currently working on:**
-  * **RippleQ:** An architectural impact pipeline to predict the effects of code changes on software quality.
-  * **GaanaLearn:** An interactive language learning application using synchronized lyrics.
+🌱 I’m currently building RippleQ (an architectural impact pipeline) and exploring CPU component design, memory hierarchies, and RISC-V assembly. 
 
-### 🛠️ Languages & Tools
-* **Languages:** Java, Python, C++, Verilog, RISC-V Assembly, TypeScript
-* **Interests:** Spring Boot, Systems Architecture, Multithreading, Automata Theory
+📫 How to reach me: [Insert your email address]
 
-### 🚀 Highlighted Projects
-* **Processor-Simulator-COA:** A modular, cycle-accurate 5-stage in-order RISC-V pipeline simulator written in Java.
-* **MultiThreadedWebServer:** A high-performance web server built from scratch in pure Java to peel back the abstraction layers of enterprise tools like Spring Boot.
-* **WellnessUniverse:** An AI-powered holistic wellness platform built with Next.js and TypeScript.
-* **CodeForge:** A Python-based repository for algorithmic solutions and competitive programming.
+📫 Connect with me:
+<!-- Replace the '#' with your actual profile links -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://in.linkedin.com/in/shreyansh-verma-285462370/) 
 
----
-⚡ *Fun Fact:* When I'm not optimizing algorithms or debugging memory hierarchies, you might find me preparing for CAT or conceptualizing strategy games based on the Maurya Empire!
+💻 Languages and Tools:
+* **Languages:** Java, Python, C++, TypeScript
+* **Frameworks & Libraries:** Spring Boot, Next.js, Pydantic
+* **Tools:** LaTeX, Cursor, Hugging Face, JetBrains
+
+📈 Github Stats:
+<!-- This will automatically generate stats based on your username -->
+![Shreyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyansh-Verma007&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyansh-Verma007&layout=compact&theme=tokyonight)
+
+✍️ Random Dev Quote
+> "First, solve the problem. Then, write the code." – John Johnson
