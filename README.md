@@ -13,8 +13,7 @@ I am a Computer Science undergraduate specializing in **Low-Level Systems**, **C
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Systems & Architecture**
-* **Verilog & RISC-V Assembly:** Designing ALU control, PC logic, and memory hierarchy components.
-* **Low-Level:** Developing cycle-accurate 5-stage in-order pipeline simulators.
+* **Low-Level:** Developing cycle-accurate 5-stage in-order pipeline simulators and Multithreaded Webserver.
 
 **Backend & AI**
 * **Frameworks:** Spring Boot, Next.js, Pydantic.
@@ -35,9 +34,6 @@ I am a Computer Science undergraduate specializing in **Low-Level Systems**, **C
 
 **MultiThreadedWebServer | Java, Spring Boot**
 → Built a high-performance web server from scratch to implement core abstraction layers of enterprise tools.
-
-**GaanaLearn | Flutter, Python**
-→ Created an interactive language learning application utilizing dual-language synchronized lyrics.
 
 ### 🌱 Current Focus
 
